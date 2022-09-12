@@ -2,11 +2,12 @@
  * @Author: bin.wang 852881230@qq.com
  * @Date: 2022-09-12 18:18:03
  * @LastEditors: bin.wang 852881230@qq.com
- * @LastEditTime: 2022-09-12 21:02:58
+ * @LastEditTime: 2022-09-12 21:45:09
  * @FilePath: \博客\docs\.vuepress\config.js
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  */
 export default {
+  base:'/docs/',
   title: "PiPiShrimpsBlog", //站点标题
   description: "皮皮虾的博客", //mate标签description，多用于搜索引擎抓取摘要,
   lang: "zh-CN",
